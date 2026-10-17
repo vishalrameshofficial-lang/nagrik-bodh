@@ -11,7 +11,7 @@
 
 DO $$
 DECLARE
-  target_email TEXT := 'admin@nagrikbodh.in'; -- <-- REPLACE WITH YOUR EMAIL
+  target_email TEXT := 'vishalramesh.official@gmail.com'; -- <-- REPLACE WITH YOUR EMAIL
   target_user_id UUID;
 BEGIN
   -- Find the user ID from auth.users or profiles
